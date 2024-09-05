@@ -1,5 +1,6 @@
-# Web & App Development
+# Web & Devolopment 
 
-## Bruce Provencher
+
+## Katelyn Curtiss
 
 ### AM Session
